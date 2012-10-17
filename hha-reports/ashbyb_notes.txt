@@ -1,0 +1,6 @@
+Wednesday October 17 2012
+Notes from Brendan on this data and it's source
+
+This data is from: http://www.cms.gov/Research-Statistics-Data-and-Systems/Files-for-Order/CostReports/HHA.html
+
+There was a typo in the name of some of the files and this has been corrected locally.
